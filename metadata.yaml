@@ -1,0 +1,39 @@
+_repo: The-Church-Year-and-Kalendar_60936
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dowden, John
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '51197'
+    url: http://www.gutenberg.org/2009/agents/51197
+    wikipedia: https://en.wikipedia.org/wiki/John_Dowden
+  editors:
+  - agent_name: Srawley, J. H. (James Herbert)
+    alias: Srawley, James Herbert
+    birthdate: 1868
+    deathdate: 1954
+    gutenberg_agent_id: '50544'
+    url: http://www.gutenberg.org/2009/agents/50544
+    wikipedia: https://en.wikipedia.org/wiki/James_Srawley
+  - agent_name: Sweet, H. B.
+    gutenberg_agent_id: '51198'
+    url: http://www.gutenberg.org/2009/agents/51198
+description: ''
+gutenberg_issued: '2019-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60936'
+  lccn: '12015586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Cambridge Handbooks of Liturgical Study
+subjects:
+- !lcc 'BV'
+- !lcsh 'Church year'
+- !lcsh 'Church calendar'
+- GITenberg
+title: The Church Year and Kalendar
+url: http://www.gutenberg.org/ebooks/60936
