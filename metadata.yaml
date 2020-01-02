@@ -1,5 +1,8 @@
 _repo: The-Church-Year-and-Kalendar_60936
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60936-h/images/cover.jpg
 creator:
   author:
     agent_name: Dowden, John
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '51198'
     url: http://www.gutenberg.org/2009/agents/51198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60936#The-Church-Year-and-Kalendar
 gutenberg_issued: '2019-12-16'
 gutenberg_type: Text
 identifiers:
